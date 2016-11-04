@@ -23,5 +23,10 @@
     "mysql": "^2.12.0",
     "node-dbi": "^0.7.1",
     "percolator": "^1.5.0"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5",
+    "request": "^2.78.0",
+    "sqlite3": "^3.1.8"
   }
 }
